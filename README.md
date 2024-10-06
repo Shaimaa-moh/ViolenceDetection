@@ -5,4 +5,4 @@
 - Report Generation: Reports are generated through the BART model, providing detailed summaries of the detected violence, while TF-IDF is used for efficient query analysis.
 - Frame Rereival : Retreiving the best frame based on our questions
 ## Link for Demo 
-[a link](https://drive.google.com/file/d/1SSAZ-oZBoTOWnsnwi2Oryh6x2nnQ6wha/view?usp=sharing)
+[Click to see the demo ](https://drive.google.com/file/d/1SSAZ-oZBoTOWnsnwi2Oryh6x2nnQ6wha/view?usp=sharing)
